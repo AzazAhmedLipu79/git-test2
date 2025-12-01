@@ -1,0 +1,4 @@
+So why does it matter?
+Programming is not just about writing code, it’s a systematical way of reasoning. Because code, or instructions, is just a means to an end. With the development of program synthesis technique, you may not even bother writing code and debugging yourself. All that matters is if you can tell the computer what to do.
+
+As the first step towards improving your programming skills, this article reveals the underlying reasoning pattern that we may not even recognize when we were programming. Most of us rely on subconscious, automatic reflection to finish most of our day-to-day tasks. But where does improvement come from? It first comes from noticing some fallacy or mistakes we made in our reasoning process.
